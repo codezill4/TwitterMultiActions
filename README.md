@@ -1,3 +1,5 @@
+https://telegra.ph/nazavod-FAQ-01-02
+
 # TwitterMultiActions
 
 ### Установка:
